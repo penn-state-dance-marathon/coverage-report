@@ -1,0 +1,6 @@
+name: "Coverage Report"
+description: "Runs a coverage report on the repository the action is used in"
+inputs:
+runs:
+  using: "composite""
+  args:
